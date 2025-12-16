@@ -7,4 +7,4 @@ Giada De Luca, Priscilla Baccaro, Ana Lucia Gomes Carvalho
 delucgia@students.zhaw.ch, baccapri@students.zhaw.ch, gomesana@students.zhaw.ch  
 
 **Fragestellung:**  
-Wie haben sich die altersstandardisierten Suizidraten weltweit sowie in ausgewählten Ländern zwischen 2000 und 2021 entwickelt, und welche sozialen, wirtschaftlichen oder kulturellen Faktoren könnten diese Unterschiede erklären?
+Wie haben sich die Suizidraten weltweit zwischen 2000 und 2021 entwickelt, welche strukturellen Muster lassen sich in der zeitlichen Dynamik und der Verteilung der Länderwerte erkennen, und inwiefern führen diese Entwicklungen zu Veränderungen der relativen Länderpositionen im globalen Vergleich?
